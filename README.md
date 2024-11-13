@@ -2,10 +2,11 @@
 This app is a Streamlit-based tool for analyzing WhatsApp chat data. It processes uploaded chats to generate statistics, visualizations, and insights into user activity, word frequency, and emoji usage. This interactive tool aids in understanding  and data preprocessing and analysis, making chat insights accessible and visually engaging. 
 
 # Installation
+Follow step:
 
-
-2. pip install -r requirements.txt
-3. streamlit run app.py
+ 1. https://github.com/Israk-ML-1999/WhatsApp-Group-Chat-Analyzer.git
+ 2. pip install -r requirements.txt
+ 3. streamlit run app.py
 
 # Usage
 1. Upload the WhatsApp Chat File: Export the chat from WhatsApp in .txt format and upload it to the analyzer.
