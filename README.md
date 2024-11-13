@@ -4,7 +4,7 @@ This app is a Streamlit-based tool for analyzing WhatsApp chat data. It processe
 # Installation
 Follow step:
 
- 1. https://github.com/Israk-ML-1999/WhatsApp-Group-Chat-Analyzer.git
+ 1. git clone https://github.com/Israk-ML-1999/WhatsApp-Group-Chat-Analyzer.git
  2. pip install -r requirements.txt
  3. streamlit run app.py
 
